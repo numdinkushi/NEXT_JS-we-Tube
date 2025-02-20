@@ -1,0 +1,1 @@
+export const appLogo = "/assets/logo.svg"
